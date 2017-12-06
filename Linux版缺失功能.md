@@ -6,3 +6,4 @@
 4. linux下打包问题
 5. linux gles目前不支持天空大气、光照效果
 6. loongson不支持pepperFlash插件（也不可能支持）
+7. kernel GVCore getDataElevation这个函数是OE2.8的，Linux上是OE2.7
